@@ -37,7 +37,7 @@ This repository is designed for beginners who are eager to dive into the world o
 
 - 🔧 The base branch for development is master.
 
-- 📝 Ensure your code follows the project's coding standards.
+- 📝 Ensure your code follows the coding standards.
 
 - 🚧 Open an issue for major changes or enhancements to discuss them before submitting a pull request.
 
