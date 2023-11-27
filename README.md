@@ -8,7 +8,7 @@
 
 <details>
   <summary>About</summary>
-  ![program](https://github.com/albin-joseph/basics_of_programming/assets/4199704/99b711ce-0844-4aaf-9bdd-72bd9e4b7070)
+  (https://github.com/albin-joseph/basics_of_programming/assets/4199704/99b711ce-0844-4aaf-9bdd-72bd9e4b7070)
 </details>
 
 
