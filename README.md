@@ -6,10 +6,10 @@
 
 1. **Introduction to Programming**: Understand the fundamental concepts that underpin all programming languages. Topics include variables, data types, and basic control structures.
 
-<details>
-  <summary>About</summary>
-  (https://github.com/albin-joseph/basics_of_programming/assets/4199704/99b711ce-0844-4aaf-9bdd-72bd9e4b7070)
-</details>
+  <details>
+    <summary>About</summary>
+      https://github.com/albin-joseph/basics_of_programming/assets/4199704/99b711ce-0844-4aaf-9bdd-72bd9e4b7070
+  </details>
 
 
 2. **Data Structures**: Dive into essential data structures such as arrays, linked lists, stacks, and queues. Learn how to choose the right data structure for different scenarios.
