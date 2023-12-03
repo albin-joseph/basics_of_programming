@@ -11,6 +11,8 @@
 
 2. **Data Structures**: Dive into essential data structures such as arrays, linked lists, stacks, and queues. Learn how to choose the right data structure for different scenarios.
 
+> ***A data structure is a way of organizing and storing data in a computer so that it can be efficiently used and manipulated. It defines a particular way of organizing and storing data so that operations such as insertion, deletion, and retrieval can be performed efficiently.***
+
 3. **Algorithms**: Explore common algorithms for sorting, searching, and more. Understand the principles behind algorithm design and analysis.
 
 4. **Coding Exercises**: Hands-on exercises to reinforce your understanding of programming basics. Practice makes perfect, and these exercises will help you build a solid foundation.
