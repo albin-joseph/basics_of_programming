@@ -11,7 +11,21 @@
 
 2. **Data Structures**: Dive into essential data structures such as arrays, linked lists, stacks, and queues. Learn how to choose the right data structure for different scenarios.
 
-> ***A data structure is a way of organizing and storing data in a computer so that it can be efficiently used and manipulated. It defines a particular way of organizing and storing data so that operations such as insertion, deletion, and retrieval can be performed efficiently.***
+> ***A data structure is a way of organizing and storing data in a computer so that it can be efficiently used and manipulated. It defines a particular way of organizing and storing data so that operations such as insertion, deletion, and retrieval can be performed efficiently.The choice of a data structure depends on the specific requirements of the algorithm or operation to be performed, considering factors like time complexity, space complexity, and the nature of the data being manipulated.***
+
+<details>
+  <summary>Type of data structures</summary>
+  
+  - Physical data structures
+     - ***Arrays***: A collection of elements, each identified by an index or a key.
+     - ***Linked lists***: Elements are stored in nodes, and each node points to the next node in the sequence.
+  - Logical data structures
+     - ***Stacks***: A Last In, First Out (LIFO) data structure, where the last element added is the first one to be removed.
+     - ***Queues***: A First In, First Out (FIFO) data structure, where the first element added is the first one to be removed.
+     - ***Trees***: Hierarchical data structures with a root element and branches of nodes, ending in leaves.
+     - ***Graphs***: Collections of nodes with edges between them, representing relationships.
+    
+</details>
 
 3. **Algorithms**: Explore common algorithms for sorting, searching, and more. Understand the principles behind algorithm design and analysis.
 
