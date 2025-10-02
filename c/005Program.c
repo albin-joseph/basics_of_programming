@@ -2,6 +2,10 @@
 // This program demonstrates basic input and output operations in C.
 // It prompts the user to enter an integer and then displays that integer.
 // Language standard: C17
+// The C17 language standard version is used for this code.
+// To compile and run this program, you can use a C compiler like GCC:
+// gcc/clang 005Program.c -o 005Program
+// ./005Program 
 
 #include <stdio.h> 
 int main() {
