@@ -1,3 +1,4 @@
+//Find the minimum element in an array.
 #include<stdio.h>
 
 int main(){
