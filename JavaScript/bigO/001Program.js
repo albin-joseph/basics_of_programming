@@ -9,3 +9,5 @@ const findName = (array) => {
 }
 
 findName(names)
+
+// Big O Notattion: O(n) - Linear Time Complexity
