@@ -11,4 +11,8 @@
     - Linear Time Complexity
     - If the number of item increases number of operations increases
 
+- **BigO(1)**
+    - Big O Notattion: O(1) - Constant Time Complexity
+    - If input size increase no changes happend
+
 - [Reference Code](../JavaScript/bigO)
