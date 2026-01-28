@@ -3,7 +3,7 @@
 ### Big O
 - What is good code?
     - Readable
-    - Scalable
+    - Scalable : Time complexity & Space complexity
     - BigO measure the code scalability
     - BigO notation tell how long the program take to run the algorithm or code
     - We calculate how many steps take perform the function
@@ -48,3 +48,20 @@
     - Drop Non-dominant terms
 
 - [Reference Code](../JavaScript/bigO)
+
+## Big-O Complexity Comparison
+
+| Big-O Notation | Name            | Performance Growth | Example Algorithms / Operations |
+|----------------|-----------------|--------------------|----------------------------------|
+| **O(1)**       | Constant Time   | 🔹 Excellent        | Array access, HashMap lookup     |
+| **O(log n)**   | Logarithmic     | 🔹 Very Good        | Binary search, Balanced BST      |
+| **O(n)**       | Linear          | 🔸 Good             | Loop through array               |
+| **O(n log n)** | Linearithmic    | 🔸 Fair             | Merge sort, Quick sort (avg)     |
+| **O(n²)**      | Quadratic       | 🔻 Poor             | Bubble sort, Nested loops        |
+| **O(n³)**      | Cubic           | 🔻 Very Poor        | Triple nested loops              |
+| **O(2ⁿ)**      | Exponential     | 🔥 Terrible         | Recursive Fibonacci              |
+| **O(n!)**      | Factorial       | 💀 Worst            | Brute-force permutations         |
+
+
+
+**NB**: Data Structure + Algorithm = Program
