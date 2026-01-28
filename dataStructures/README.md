@@ -5,6 +5,7 @@
     - Readable
     - Scalable : Time complexity & Space complexity
     - BigO measure the code scalability
+    - BigO represents how efficient the code
     - BigO notation tell how long the program take to run the algorithm or code
     - We calculate how many steps take perform the function
 - How we calculate BigO
@@ -65,3 +66,5 @@
 
 
 **NB**: Data Structure + Algorithm = Program
+
+### Spece Complexity
