@@ -67,4 +67,8 @@
 
 **NB**: Data Structure + Algorithm = Program
 
-### Spece Complexity
+### What are companies looking for
+- Analystical Skills
+- Coding Skills
+- Technical Skills
+- Communications Skills
