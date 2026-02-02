@@ -75,3 +75,7 @@
 - Data Structures: Arrays, Stacks, Queues, Linked Lists, Trees, Tries, Graphs, Hash Tables
 - Algorithms: Sorting, Dynamic Programming, BFS + DFS (Searching), Recursion
 
+## Data Structure
+- Collection of values
+    - DS have relationship and functions
+    - Each DS have their own use cases
