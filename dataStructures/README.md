@@ -82,4 +82,5 @@
 - Array(List)
     - Organize the items sequentially; one after the another
     - lookup:O(1), push:O(1), insert:O(n), delete:O(n)
-    
+    - Static Array : fixed in size. We will predefined size/how many item can hold
+    - Dynamic Array: We can dynamically add item and it should reallocate the memmory based on that
