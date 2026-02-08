@@ -17,3 +17,6 @@ console.log(str);
 
 str.splice(1, 0, 'y'); //O(n) - Add an element at a specific index
 console.log(str);
+
+str.splice(1, 1); //O(n) - Remove an element at a specific index
+console.log(str);
